@@ -1,14 +1,14 @@
 {
   "name": "gatsby-tutorial-starter",
-  "author": "Justin Formentin",
+  "author": "Dan Klutmeyer",
   "title": "Gatsby V2 Tutorial Starter",
-  "description": "My Blog",
-  "homepage": "https://gatsby-tutorial-starter.netlify.com",
+  "description": "Affiliate Online Marketing Blog",
+  "homepage": "https://affiliateonlinemarketing.netlify.com",
   "license": "MIT",
   "version": "0.0.7",
   "repository": {
     "type": "git",
-    "url": "https://github.com/justinformentin/gatsby-v2-tutorial-starter"
+    "url": "https://github.com/aomcloudenterprise/gatsby-v2-tutorial-starter"
   },
   "scripts": {
     "develop": "gatsby develop",
@@ -66,7 +66,7 @@
     "prettier": "^1.14.3"
   },
   "keywords": [
-    "justin formentin",
+    "DanKlut",
     "personal blog",
     "tutorial",
     "gatsby",
