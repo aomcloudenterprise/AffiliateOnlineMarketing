@@ -19,7 +19,7 @@ const About = center => (
         <h3>
           If you would like to build this site completely from scratch, you go
           can go read the guide{' '}
-          <a href="https://justinformentin.com/gatsby-v2-guide">here.</a>
+          <a href="https://github.com/danklut/gatsby-v2-guide">here.</a>
         </h3>
         <br />
         <h3>
