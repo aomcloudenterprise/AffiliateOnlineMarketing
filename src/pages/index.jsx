@@ -25,7 +25,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'Home Page'} />
-      <Header title="Home Page">Gatbsy Tutorial Starter</Header>
+      <Header title="Home Page">Affiliate Online Marketing Blog</Header>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
