@@ -1,7 +1,7 @@
 {
   "name": "gatsby-tutorial-starter",
   "author": "Dan Klutmeyer",
-  "title": "Gatsby V2 Tutorial Starter",
+  "title": "Affiliate Online Marketing Blog",
   "description": "Affiliate Online Marketing Blog",
   "homepage": "https://affiliateonlinemarketing.netlify.com",
   "license": "MIT",
@@ -66,7 +66,7 @@
     "prettier": "^1.14.3"
   },
   "keywords": [
-    "DanKlut",
+    "affiliate online marketing",
     "personal blog",
     "tutorial",
     "gatsby",
